@@ -142,7 +142,7 @@ class _ShopFormPageState extends State<ShopFormPage> {
                           },
                         );
                       }
-                      _formKey.currentState!.reset();
+                      // _formKey.currentState!.reset();
                     },
                     child: const Text(
                       "Save",
